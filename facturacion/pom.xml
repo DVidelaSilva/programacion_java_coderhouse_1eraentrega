@@ -10,9 +10,9 @@
 	</parent>
 	<groupId>com.coderhouse</groupId>
 	<artifactId>facturacion</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>facturacion</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Proyecto Facturacion Curso Programacion Java CoderHouse</description>
 	<url/>
 	<licenses>
 		<license/>
